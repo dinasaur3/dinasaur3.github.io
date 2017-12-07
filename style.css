@@ -1,6 +1,6 @@
 a:hover {
 	cursor: help;
-	color: red;
+	color: hsla(0, 100%, 50%, 0.76);
 	-moz-transition-duration: 0.5s;
 	-o-transition-duration: 0.5s;
 	-webkit-transition-duration: 0.5s;
@@ -9,13 +9,13 @@ a:hover {
 a {
 	text-decoration: none;
 	color: #566573;
-	font-family: Annie-Use-Your-Telescope;
+	font-family: cursive;
 	font-style: normal;
 	font-weight: 600;
 }
 #blacklink {
 	font-size: 40px;
-	/*font-family: architects-daughter;*/
+	font-family: none;
 	color: #121415;
 	font-weight: 400;
 }
