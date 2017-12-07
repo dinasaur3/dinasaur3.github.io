@@ -1,0 +1,21 @@
+a:hover {
+	cursor: help;
+	color: red;
+	-moz-transition-duration: 0.5s;
+	-o-transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+}
+a {
+	text-decoration: none;
+	color: #566573;
+	/*font-family: annie-use-your-telescope;*/
+	font-style: normal;
+	font-weight: 600;
+}
+#blacklink {
+	font-size: 40px;
+	/*font-family: architects-daughter;*/
+	color: #121415;
+	font-weight: 400;
+}
