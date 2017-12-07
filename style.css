@@ -6,6 +6,7 @@ a:hover {
 	-webkit-transition-duration: 0.5s;
 	transition-duration: 0.5s;
 }
+
 a {
 	text-decoration: none;
 	color: #566573;
@@ -13,9 +14,18 @@ a {
 	font-style: normal;
 	font-weight: 400;
 }
+
+ blackpink:hover {
+	 background-color: rgba(164, 20, 207, 0.918)
+	-moz-transition-duration: 0.5s;
+	-o-transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+ }
+
 #blacklink {
+	cursor: pointer;
 	font-size: 40px;
 	font-family: none;
-	color: #121415;
 	font-weight: 400;
 }
